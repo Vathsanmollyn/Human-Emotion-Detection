@@ -23,11 +23,7 @@ pip install tensorflow keras numpy pandas matplotlib opencv-python
 Human-Emotion-Detection/
 │── notebooks/            # Jupyter notebooks for model training & testing
 │── data/                 # Dataset files (not uploaded if too large)
-│── models/               # Trained model checkpoints
-│── scripts/              # Python scripts for training and evaluation
-│── docs/                 # Research papers and literature review
 │── README.md             # Project documentation
-│── requirements.txt      # Dependencies list
 ```
 
 ## Model Details
